@@ -30,6 +30,3 @@ elif result2 < 0:
 elif result2 == 0:
     print("After substracting", num3, ", the result is", result2,)
     print("Thanks for using the program!")
-    
-    
-    contigo pipo
